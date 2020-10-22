@@ -72,7 +72,7 @@
 Пример:
 
 ```bash
-$ /path/to/Pizza.exe
+$ /path/to/Device.exe
 Please, enter device name:
 Laptop
 ```
